@@ -19,5 +19,8 @@
   "homepage": "https://github.com/aasanchezn/guia-hoteles#readme",
   "devDependencies": {
     "lite-server": "^2.6.1"
+  },
+  "dependencies": {
+    "bootstrap": "^5.1.3"
   }
 }
